@@ -39,3 +39,28 @@ src="https://img.shields.io/twitter/follow/AniketTagor?logo=twitter&style=for-th
 <a href="http://www.github.com/anikettagor2"><img src="https://github-readme-stats.vercel.app/api?username=anikettagor2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anikettagor2's GitHub stats" /></a>
 
 <a href="https://github.com/anikettagor2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikettagor2&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+
+
+---
+
+## 🧠 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anikettagor2&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&area=true&hide_border=true)
+
+---
+
+## ⚡ Recent GitHub Stats
+
+![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anikettagor2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anikettagor2&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true)
+
+---
+
+## 📈 Contribution Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anikettagor2&theme=dark&hide_border=true)
+
