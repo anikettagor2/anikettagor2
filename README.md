@@ -1,108 +1,39 @@
-<!-- README.md -->
-<!-- Add this at top for smooth scroll -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-  body {font-family: 'Segoe UI', sans-serif; background: #0a0a0a; color: #f0f0f0;}
-  h1, h2, h3 {animation: glow 2s infinite alternate; text-shadow: 0 0 10px #08f;}
-  @keyframes glow {from {text-shadow: 0 0 5px #08f;} to {text-shadow: 0 0 20px #0af;}}
-  .skills img {width:48px; margin:8px; opacity:0.8; transition:0.3s;}
-  .skills img:hover {transform:scale(1.2); opacity:1;}
-  .scroll-container {height:200px; overflow-y:scroll; background:#111; padding:16px; border-radius:8px;}
-  .scroll-container::-webkit-scrollbar {width:6px;}
-  .scroll-container::-webkit-scrollbar-thumb {background:#333; border-radius:3px;}
-  .graph, .stats {display:flex; justify-content: center; margin:24px 0;}
-  .graph img, .stats img {max-width:100%; border-radius:12px; box-shadow:0 0 20px #08f;}
-</style>
+Hi 👋 My name is Aniket Tagor
+=============================
 
-# 👋 Hi, I’m **Aniket Tagor**
-### Aspiring Backend Developer | Crafting Cloud-Scale APIs & Frontend Experiences on Google Cloud 🚀
+Aspiring Backend Developer | Passionate about Scalable Cloud Solutions on Google Cloud
+--------------------------------------------------------------------------------------
 
-Hello! I'm Aniket—based in Pune, India, passionate about building robust backend systems and sleek, interactive frontends using React, TailwindCSS, and Vite.
+Hi there 👋 I'm Aniket, a curious mind diving deep into the world of Backend Development and the limitless universe of Cloud Computing. My current journey revolves around building robust, scalable APIs and mastering the server-side logic that powers the web behind the scenes.
 
-📫 Reach me: Aniket.tagor24@gmail.com  
-💼 Portfolio: [anikettagor.lovable.app](https://anikettagor.lovable.app)  
-🌱 Currently working on: **HRM System** | Learning **Rust**
+But I'm not just about servers and databases — I also have a strong passion for crafting beautiful, interactive frontends. With a solid command over HTML, CSS, JavaScript, and modern tools like React.js, Tailwind CSS, and Vite, I love bringing ideas to life visually and functionally.
 
----
+Whether it's architecting a backend system or creating a seamless frontend UI — I enjoy both sides of the web and strive to build projects that are not only functional but also futuristic in design.
 
-## 🛠️ Skills Highlight
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Anikettagor](http://anikettagor.lovable.app)
+* ✉️  You can contact me at [Aniket.tagor24@gmail.com](mailto:Aniket.tagor24@gmail.com)
+* 🚀  I'm currently working on [HRM (Human Resource management system)](http://github.com/anikettagor2/gamma)
+* 🧠  I'm learning Rust
 
-<div class="skills">
-  ![C](https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg)
-  ![C++](https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg)
-  ![JavaScript](https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg)
-  ![TypeScript](https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-original.svg)
-  ![Python](https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg)
-  ![Java](https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg)
-  ![Rust](https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg)
-  ![Node.js](https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg)
-  ![Express](https://github.com/devicons/devicon/raw/master/icons/express/express-original.svg)
-  ![Spring Boot](https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg)
-  ![MongoDB](https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg)
-  ![MySQL](https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original.svg)
-  ![HTML5](https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg)
-  ![CSS3](https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg)
-  ![React](https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg)
-  ![Vue](https://github.com/devicons/devicon/raw/master/icons/vuejs/vuejs-original.svg)
-  ![TailwindCSS](https://github.com/devicons/devicon/raw/master/icons/tailwindcss/tailwindcss-plain.svg)
-  ![Docker](https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg)
-  ![Google Cloud](https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original.svg)
-  ![TensorFlow](https://github.com/devicons/devicon/raw/master/icons/tensorflow/tensorflow-original.svg)
-</div>
+<a href="https://www.x.com/AniketTagor" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/AniketTagor?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
----
+### Skills
 
-## 📊 GitHub Stats & Activity
 
-<div class="graph">
-  <!-- Replace with actual live badges -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anikettagor2&show_icons=true&theme=dark" alt="GitHub Stats">
-</div>
-<div class="graph">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anikettagor2&theme=dark" alt="Streak">
-</div>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" title="C++"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" title="Java"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" title="rlang"/></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" title="Rust"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" width="36" height="36" alt="Vim" title="Vim"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" title="Vue"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" title="Material UI"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-dark.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot"/></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" title="Supabase"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" title="Sketch"/></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud"/></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" title="Wordpress"/></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" title="Django"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" title="TensorFlow"/></a>
+</p>
 
----
 
-## 🔍 Contributions & Popular Projects
+### Socials
 
-Scroll to explore 🔽
+<p align="left"> <a href="https://www.github.com/anikettagor2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/aniket_tagor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/aniket-tagor-25932b246/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.x.com/AniketTagor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@AniketTagor" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a></p>
 
-<div class="scroll-container">
-#### 🚀 gamma
-- A JavaScript-powered app (feature summary...)
-- 🔗 [Repo: gamma](https://github.com/anikettagor2/gamma)
+<b>My GitHub Stats</b>
 
-#### 🧩 HRM_
-- Human Resource Management system in JS.
-- 🔗 [Repo: HRM_](https://github.com/anikettagor2/HRM_)
+<a href="http://www.github.com/anikettagor2"><img src="https://github-readme-stats.vercel.app/api?username=anikettagor2&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="anikettagor2's GitHub stats" /></a>
 
-#### 🎓 diploma-final-year-project
-- Forked from DiAIGen: an AI-based website builder in PHP.
-- 🔗 [Repo: diploma-final-year-project](https://github.com/anikettagor2/diploma-final-year-project)
-
-#### ⚙️ anikettagor2 (meta)
-- A personal utilities/tools repo.
-- 🔗 [Repo: anikettagor2](https://github.com/anikettagor2/anikettagor2)
-</div>
-
----
-
-## 🧭 What I’m Learning & Exploring
-
-- **Rust** — diving into memory-safe systems programming  
-- **Scalable backend patterns** — microservices, async APIs, cloud-native design  
-- **Frontend & UI/UX** — crafting responsive apps with React, Vite, Tailwind  
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/aniket-tagor-25932b246) 
-[![Instagram](https://img.shields.io/badge/Instagram-gradient?logo=instagram)](https://www.instagram.com/aniket_tagor/) 
-[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?logo=twitter)](https://x.com/AniketTagor) 
-[![Threads](https://img.shields.io/badge/Threads-black?logo=threads)](https://www.threads.net/@anikettagor)
-
----
-
-*Crafted with 💙 by futuristic code, bring your README to life!*
+<a href="https://github.com/anikettagor2" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikettagor2&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
