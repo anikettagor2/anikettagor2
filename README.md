@@ -78,35 +78,36 @@
 <td width="55%" valign="top">
 
 <!-- 🖥️ TERMINAL-STYLE BIO CARD -->
+
 ```js
 // ═══════════════════════════════════════════════════════════
 // 🧬 DEVELOPER DNA SEQUENCE — INITIALIZED
 // ═══════════════════════════════════════════════════════════
 
 const ANIKET_TAGOR = {
-    designation: "Cybernetic Backend Engineer",
-    location: "Pune, Maharashtra, India 🇮🇳",
-    coordinates: { lat: 18.5204, lng: 73.8567 },
-    
-    education: {
-        current: "B.Tech CSE @ MITS Gwalior",
-        cgpa: 8.0,
-        timeline: "Sep 2024 → June 2027",
-        previous: {
-            degree: "Diploma in Computer Engineering",
-            institution: "JSPM Bhivrabai Sawant Polytechnic",
-            score: "80%"
-        }
+  designation: "Cybernetic Backend Engineer",
+  location: "Pune, Maharashtra, India 🇮🇳",
+  coordinates: { lat: 18.5204, lng: 73.8567 },
+
+  education: {
+    current: "B.Tech CSE @ MITS Gwalior",
+    cgpa: 8.0,
+    timeline: "Sep 2024 → June 2027",
+    previous: {
+      degree: "Diploma in Computer Engineering",
+      institution: "JSPM Bhivrabai Sawant Polytechnic",
+      score: "80%",
     },
-    
-    currentMission: "Building HRM System",
-    learningPath: ["Rust 🦀", "Kubernetes ☸️", "Systems Programming"],
-    
-    achievements: ["Top 50 Google Cloud Study Jams 2025"],
-    
-    philosophy: "Code is Poetry. Bad Code is Horror.",
-    
-    status: "ONLINE ⚡"
+  },
+
+  currentMission: "Building HRM System",
+  learningPath: ["Rust 🦀", "Kubernetes ☸️", "Systems Programming"],
+
+  achievements: ["Top 50 Google Cloud Study Jams 2025"],
+
+  philosophy: "Code is Poetry. Bad Code is Horror.",
+
+  status: "ONLINE ⚡",
 };
 
 module.exports = ANIKET_TAGOR;
@@ -411,16 +412,18 @@ module.exports = ANIKET_TAGOR;
 </td>
 <td width="70%">
 
-### 🔒 **FaceGuard AI** — *Intelligent Face Recognition Attendance System*
+### 🔒 **FaceGuard AI** — _Intelligent Face Recognition Attendance System_
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=00FF00&vCenter=true&width=500&height=20&lines=%3E_+PROCESSING+80%2B+FACES+%40+30+FPS+WITH+95%25+ACCURACY" alt="Processing"/>
 
 **📋 Mission Briefing:**
+
 > Revolutionary real-time face recognition system using advanced computer vision pipelines. Handles 80+ students simultaneously with military-grade duplicate prevention.
 
 **🛡️ Key Features:**
+
 - `✅` Real-time webcam face detection & encoding
-- `✅` Duplicate attendance prevention algorithms  
+- `✅` Duplicate attendance prevention algorithms
 - `✅` RESTful API with FastAPI backend
 - `✅` React frontend with live video feed
 
@@ -458,14 +461,16 @@ module.exports = ANIKET_TAGOR;
 </td>
 <td width="70%">
 
-### 🎬 **VidRep** — *AI-Powered YouTube Video Summarizer*
+### 🎬 **VidRep** — _AI-Powered YouTube Video Summarizer_
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=FF6B35&vCenter=true&width=500&height=20&lines=%3E_+GEMINI+AI+INTEGRATION+ACTIVE..." alt="AI"/>
 
 **📋 Mission Briefing:**
+
 > Automated transcript extraction + AI summarization. Transforms hours of video content into digestible summaries with intelligent quiz generation.
 
 **🛡️ Key Features:**
+
 - `✅` YouTube transcript auto-extraction
 - `✅` Google Gemini AI summarization
 - `✅` Interactive quiz generation
@@ -506,14 +511,16 @@ module.exports = ANIKET_TAGOR;
 </td>
 <td width="70%">
 
-### 📚 **EcoSubmit** — *AI Digital Submission Platform*
+### 📚 **EcoSubmit** — _AI Digital Submission Platform_
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=9D4EDD&vCenter=true&width=500&height=20&lines=%3E_+REVOLUTIONIZING+ACADEMIC+SUBMISSIONS..." alt="Academic"/>
 
 **📋 Mission Briefing:**
+
 > Paperless academic revolution. AI reads your PDF and generates intelligent viva questions. Role-based access for students and professors.
 
 **🛡️ Key Features:**
+
 - `✅` AI-generated viva questions from PDFs
 - `✅` Role-based access control
 - `✅` Firebase Auth + Firestore + Storage
@@ -541,6 +548,104 @@ module.exports = ANIKET_TAGOR;
 </tr>
 </table>
 
+<br/>
+
+<!-- 🏎️ PROJECT 4: F1 Race Analytics — HOLOGRAPHIC CARD -->
+<table align="center">
+<tr>
+<td align="center" width="120px">
+<br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnF4MWI5cWRxZzU0Y2ZlYjNrZ3ZrNWI4aXgxcjR5OHgyYmF3MXJ3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iFmw13LV1hHhViPPWz/giphy.gif" width="100"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/🏎️-F1_Race_Analytics-E10600?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td width="70%">
+
+### 🏎️ **F1 Race Analytics** — _Real-Time Formula 1 Data Dashboard_
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=E10600&vCenter=true&width=500&height=20&lines=%3E_+ANALYZING+TELEMETRY+DATA+%40+300+KM/H..." alt="F1"/>
+
+**📋 Mission Briefing:**
+
+> High-octane F1 analytics platform with live race data, driver statistics, and championship standings. Real-time telemetry visualization for racing enthusiasts.
+
+**🛡️ Key Features:**
+
+- `✅` Live race standings & lap times
+- `✅` Driver & constructor championships
+- `✅` Historical race data analysis
+- `✅` Interactive data visualizations
+
+</td>
+<td width="30%" align="center">
+
+**🔧 Tech Deployed:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![API](https://img.shields.io/badge/Ergast_API-000000?style=flat-square&logo=api&logoColor=white)
+
+<br/>
+
+<a href="https://github.com/anikettagor2/f1-race-analytics">
+<img src="https://img.shields.io/badge/🔗_VIEW_REPO-E10600?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ✏️ PROJECT 5: Editohub — HOLOGRAPHIC CARD -->
+<table align="center">
+<tr>
+<td align="center" width="120px">
+<br/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXd6OWh4bWRxZHZoOXE1dWN0NWV2cTJ5dHU4dG0yNmNnMHkwamo3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IPbS5R4fSUl5S/giphy.gif" width="100"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/✏️-Editohub-FFD700?style=for-the-badge&labelColor=0D1117"/>
+</td>
+<td width="70%">
+
+### ✏️ **Editohub** — _Collaborative Code & Content Editor_
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=1000&color=FFD700&vCenter=true&width=500&height=20&lines=%3E_+REAL-TIME+COLLABORATION+ENABLED..." alt="Editor"/>
+
+**📋 Mission Briefing:**
+
+> Modern collaborative editing platform with real-time sync, syntax highlighting, and multi-user support. Write, code, and create together seamlessly.
+
+**🛡️ Key Features:**
+
+- `✅` Real-time collaborative editing
+- `✅` Multi-language syntax highlighting
+- `✅` Live cursor & presence indicators
+- `✅` Auto-save & version history
+
+</td>
+<td width="30%" align="center">
+
+**🔧 Tech Deployed:**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Monaco](https://img.shields.io/badge/Monaco-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+<br/>
+
+<a href="https://github.com/anikettagor2/editohub">
+<img src="https://img.shields.io/badge/🔗_VIEW_REPO-FFD700?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 <!-- 🌊 ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-90f6-dde19c2cf04b.gif" width="100%">
 <p align="center">
@@ -562,6 +667,7 @@ module.exports = ANIKET_TAGOR;
 <div align="center">
 
 <!-- 📊 MAIN STATS DASHBOARD -->
+
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════════╗
 ║                         📡 REAL-TIME GITHUB ANALYTICS                                  ║
@@ -599,6 +705,7 @@ module.exports = ANIKET_TAGOR;
 <br/><br/>
 
 <!-- 🐍 ANIMATED CONTRIBUTION SNAKE -->
+
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════════╗
 ║                         🐍 CONTRIBUTION SNAKE — WATCH IT DEVOUR!                       ║
@@ -614,6 +721,7 @@ module.exports = ANIKET_TAGOR;
 <br/><br/>
 
 <!-- 🏆 TROPHY CABINET -->
+
 ```
 ╔════════════════════════════════════════════════════════════════════════════════════════╗
 ║                         🏆 TROPHY CABINET                                              ║
@@ -782,6 +890,7 @@ Technology Fundamentals
 <br/><br/>
 
 <!-- 🎭 SIGNATURE QUOTE -->
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                           ║
@@ -805,20 +914,21 @@ Technology Fundamentals
 <br/>
 
 <!-- 🎬 FINAL ASCII ART -->
+
 ```
- ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗    ███████╗ ██████╗ ██████╗ 
+ ████████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗███████╗    ███████╗ ██████╗ ██████╗
  ╚══██╔══╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝██╔════╝    ██╔════╝██╔═══██╗██╔══██╗
     ██║   ███████║███████║██╔██╗ ██║█████╔╝ ███████╗    █████╗  ██║   ██║██████╔╝
     ██║   ██╔══██║██╔══██║██║╚██╗██║██╔═██╗ ╚════██║    ██╔══╝  ██║   ██║██╔══██╗
     ██║   ██║  ██║██║  ██║██║ ╚████║██║  ██╗███████║    ██║     ╚██████╔╝██║  ██║
     ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝      ╚═════╝ ╚═╝  ╚═╝
-                                                                                 
-                    ██╗   ██╗██╗███████╗██╗████████╗██╗███╗   ██╗ ██████╗ ██╗    
-                    ██║   ██║██║██╔════╝██║╚══██╔══╝██║████╗  ██║██╔════╝ ██║    
-                    ██║   ██║██║███████╗██║   ██║   ██║██╔██╗ ██║██║  ███╗██║    
-                    ╚██╗ ██╔╝██║╚════██║██║   ██║   ██║██║╚██╗██║██║   ██║╚═╝    
-                     ╚████╔╝ ██║███████║██║   ██║   ██║██║ ╚████║╚██████╔╝██╗    
-                      ╚═══╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝    
+
+                    ██╗   ██╗██╗███████╗██╗████████╗██╗███╗   ██╗ ██████╗ ██╗
+                    ██║   ██║██║██╔════╝██║╚══██╔══╝██║████╗  ██║██╔════╝ ██║
+                    ██║   ██║██║███████╗██║   ██║   ██║██╔██╗ ██║██║  ███╗██║
+                    ╚██╗ ██╔╝██║╚════██║██║   ██║   ██║██║╚██╗██║██║   ██║╚═╝
+                     ╚████╔╝ ██║███████║██║   ██║   ██║██║ ╚████║╚██████╔╝██╗
+                      ╚═══╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝
 ```
 
 <br/>
